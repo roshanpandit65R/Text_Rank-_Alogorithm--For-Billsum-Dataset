@@ -55,11 +55,6 @@ These scores indicate a decent extractive summary quality with room for improvem
    python Main.py
    ```
 
-## Input Format
-JSONL format:
-```
-{"text": "Your document text goes here."}
-```
 
 ## Evaluation Metrics
 | Metric    | Description                                 |
